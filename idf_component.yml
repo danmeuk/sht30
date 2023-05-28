@@ -1,0 +1,4 @@
+description: SHT30 Temperature/Humidity sensor I2C driver
+url: https://github.com/danmeuk/sht30
+dependencies:
+  idf: '>=4.4.4'
